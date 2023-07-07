@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Copperplate;
+    src: url('../font/Copperplate.ttf');
+}
+
+@font-face {
+    font-family: Cambria;
+    src: url('../font/Cambria.ttf');
+}
+
+
+body{
+    background-color: #EB6B0C;
+}
+
+.unbi {
+    /* mengatur font nama kampus di heading */
+    margin-top: -64px;
+    margin-left: 93px;
+    font-family: Copperplate;
+    font-size: 16px;
+    color: darkgray;
+
+
+}
+.drop {
+    color: darkgray;
+    background-color: #141e2f;
+} 
+.menu1 {
+    /* mengatur seluruh bagian menu */
+    font-family: Copperplate;
+    color: darkgray;
+}
+.warna{
+    background-color: #141e2f;
+}
+
+.logo {
+    /* untuk mengatur logo yang di header */
+    margin-top: 15px;
+}
+
+.menu2{
+    font-family: Cambria;
+}
+
+
+
