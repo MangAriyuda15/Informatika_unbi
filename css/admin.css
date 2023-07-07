@@ -1,0 +1,87 @@
+@font-face {
+    font-family: Copperplate;
+    src: url('../font/Copperplate.ttf');
+}
+
+@font-face {
+    font-family: Cambria;
+    src: url('../font/Cambria.ttf');
+}
+
+
+body{
+    background-color: #141e2f;
+}
+
+.unbi {
+    /* mengatur font nama kampus di heading */
+    margin-top: -64px;
+    margin-left: 93px;
+    font-family: Copperplate;
+    font-size: 16px;
+    color: white;
+
+}
+.drop {
+    color: white;
+    background-color: #141e2f;
+}
+.menu1 {
+    /* mengatur seluruh bagian menu */
+    font-family: Copperplate;
+    color: white;
+}
+
+.warna{
+    background-color: #141e2f;
+}
+
+.logo {
+    /* untuk mengatur logo yang di header */
+    margin-top: 15px;
+}
+
+.geser {
+    margin-left: 400px;
+}
+.selamat {
+    /* mengatur font kalimat pembuka */
+    font-size: 30px;
+    line-height: 1.2;
+    font-family: Cambria;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.color3 {
+    /* mengatur warna background card */
+    background-color: #ffffff;
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+.isi {
+    /* mengatur bagian isi pembuka */
+    font-family: Cambria;
+    font-size: 16px;
+    color: black;
+    margin-bottom: 100px;
+}
+
+.atur{
+    color: white;
+    font-family: Cambria;
+    background-color: #ffffff;
+}
+
+/*mengatur tulisan sign in ketika pencet tombol login */
+.sign{
+    color: black;
+    font-family: Copperplate;    
+}
+
+/*mengatur posisi tombol login ketika di inspect */
+.login{
+   
+    margin-left: -12px;
+}
+
